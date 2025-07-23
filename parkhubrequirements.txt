@@ -1,0 +1,13 @@
+1. We should have a list of all the parks(Park Stuff, Government Officer) Eg: Volcanoes National Park, etc
+2. (Many FInance Officers) Depending on ParkId ~ ForeignId(Parks) Many to many relationship
+3. Finance Officer: Budget Creation: These should be highlighted when doing an Budget  Income(Donations + Booked Tours + Government Income(Has a fixed % for donating to our cause))
+						     				       Expenses(Fundrequests)
+4. Finance Officer: Look at the prototype for Budget Suggestion and Budget Creation
+4. Government Officer Should see the similar suggested budget
+5. Remove the status and payment out of the booked tours table
+6. Emergency Requests are created when you need money as quick as possible & Extra funds are created when the budget is diminished
+7. Emergency Requests and Extra FUnds forms should be the same deifference is the description 
+8. For every transaction, It should be printable and seen well just like in the government requests
+9. For Finance Officer & Government report can use the filter to see expenses, income and be able to download that table
+10. Remove the transactions because the invoice part already contains all the invoices needed to be audited
+11. When viewing the invoice we should be able to see the finance officer or who is responsible for that transaction
