@@ -143,7 +143,7 @@ const Login = () => {
             <div className="mt-8">
               <div className="relative">
                 <div className="absolute inset-0 flex items-center">
-                  <div className="w-full border-t border-gray-300"></div>
+                  <div className="w-full border-gray-300"></div>
                 </div>
                 <div className="relative flex justify-center text-sm">
                   <span className="px-2 bg-white text-gray-500">
@@ -151,12 +151,12 @@ const Login = () => {
                   </span>
                 </div>
                 <div className="mt-4 bg-gray-100 rounded-md p-4 text-sm text-gray-700 space-y-2">
-    <p><strong>Admin:</strong> <span className="text-conservation-700">admin@ecopark.com</span> / <span className="font-mono">password</span></p>
-    <p><strong>Auditor:</strong> <span className="text-conservation-700">sarah.williams@auditgov.org</span> / <span className="font-mono">password</span></p>
-    <p><strong>Finance Officer:</strong> <span className="text-conservation-700">emily.johnson@parkfinance.org</span> / <span className="font-mono">password</span></p>
-    <p><strong>Government Officer:</strong> <span className="text-conservation-700">laura.davis@gov.org</span> / <span className="font-mono">password</span></p>
-    <p><strong>Park Staff:</strong> <span className="text-conservation-700">Ganza.dany@yahoo.com</span> / <span className="font-mono">password</span></p>
-  </div>
+                  <p><strong>Admin:</strong> <span className="text-conservation-700">admin@ecopark.com</span> / <span className="font-mono">password</span></p>
+                  <p><strong>Auditor:</strong> <span className="text-conservation-700">sarah.williams@auditgov.org</span> / <span className="font-mono">password</span></p>
+                  <p><strong>Finance Officer:</strong> <span className="text-conservation-700">emily.johnson@parkfinance.org</span> / <span className="font-mono">password</span></p>
+                  <p><strong>Government Officer:</strong> <span className="text-conservation-700">laura.davis@gov.org</span> / <span className="font-mono">password</span></p>
+                  <p><strong>Park Staff:</strong> <span className="text-conservation-700">Ganza.dany@yahoo.com</span> / <span className="font-mono">password</span></p>
+                </div>
               </div>
             </div>
           </div>
